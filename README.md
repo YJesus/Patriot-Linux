@@ -22,6 +22,8 @@ Patriot detect:
 
 You need to configure Auditd with this suggested rules https://github.com/Neo23x0/auditd (you can use your own rules and simply modify keywords in the code)
 
+Install xinput (apt install xinput or yum install xorg-x11-server-utils)
+
 And then simply download and run python3 patriot.py
 
 Tested in CentOS/Fedora and Debian/Ubuntu
