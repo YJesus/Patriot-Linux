@@ -24,6 +24,6 @@ You need to configure Auditd with this suggested rules https://github.com/Neo23x
 
 Install xinput (apt install xinput or yum install xorg-x11-server-utils)
 
-And then simply download and run python3 patriot.py
+And then simply download py files and run python3 patriot.py
 
 Tested in CentOS/Fedora and Debian/Ubuntu
